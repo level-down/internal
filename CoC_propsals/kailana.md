@@ -66,3 +66,5 @@ Submit a written appeal no later than three days after a determination has been 
 ## Don't be afraid to report the positive
 Did someone make a positive contribution to the project or otherwise? Please tell us about their progress. We'd love to hear it.
 
+## Acknowledgements 
+[Write Speak Code] (https://www.writespeakcode.com/code-of-conduct/) and [Open Source Guide] (https://opensource.guide/code-of-conduct/) provided the inspiration for this code of conduct. 
