@@ -4,10 +4,11 @@ This document outlines code of conduct for ${LevelDown} org. Please familiarize 
 ## Sections
 * Our Mission
 * Who It Applies To
+* Where It Applies To
 * Expectations For Behavior
 * Violations
 * Consequences
-* Methods to Report
+* Methods To Report
 * Review Processes
  
 ## Mission Statement
@@ -20,7 +21,7 @@ The code of conduct applies to all members of the org.
 The code of conduct applies "in all spaces and situations where the org is present" including—but not limited to—pull requests, Discord, Zoom, Slack, and other physical and online communication channels.
  
 ## Expectations for Behavior
-All org members should familiarize themselves with this document to better understand the expectations for behavior when communicating and interacting with members. Community members are expected to adhere to
+All org members should familiarize themselves with this document to better understand the expectations for behavior when communicating and interacting with members. Community members are expected to adhere to guidelines as outlined on communication channels (terms of service).
  
 ## Violations
 The org makes the distinction between incidents that are teachable and non-teachable.
@@ -54,7 +55,7 @@ Teachable offences: voluntary mediation, discussion/review of the code of conduc
 Non-teachable offences: suspension or banning.
  
 ## Review Process
-When an inciting incident is reported to the org, the community must first determine how the behavior violates the code of conduct. In the event that a behavior, or a pattern of repeated behavior ,is found to be in violation of the code of conduct, the members will take a voluntary, private vote on the consequence(s) through an appropriate communication channel no later than one week following the determination.
+When an inciting incident is reported to the org, the community must first determine how the behavior violates the code of conduct. In the event that a behavior, or a pattern of repeated behavior, is found to be in violation of the code of conduct, the members will take a voluntary, private vote on the consequence(s) through an appropriate communication channel no later than one week following the determination.
 * In the event of a tie, members may discuss next steps.
  
 ## How can I report offences?
@@ -64,7 +65,7 @@ Conduct should be addressed, not ignored. The org is moderated on a voluntary ba
 Submit a written appeal no later than three days after a determination has been made on the consequence. Describe the incident and why you believe it does not violate the code of conduct or the otherwise extenuating circumstances surrounding the incident.
  
 ## Don't be afraid to report the positive
-Did someone make a positive contribution to the project or otherwise? Please tell us about their progress. We'd love to hear it.
+Did you or someone you know make a positive contribution to the project or otherwise? Please tell us about it. We'd love to hear it.
 
 ## Acknowledgements 
 [Write Speak Code] (https://www.writespeakcode.com/code-of-conduct/) and [Open Source Guide] (https://opensource.guide/code-of-conduct/) provided the inspiration for this code of conduct. 
