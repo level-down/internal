@@ -16,17 +16,21 @@ Our organization believes there is a difference between a teachable and non-teac
 
 ## List of offenses
 
-### Teachable Offenses
-
-* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
-* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion. 
-* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
-* Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment. 
-* Sustained disruption of discussion
-
+    Teachable Offenses
 ---
+    1. Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
 
-     Non-Teachable Offenses
+    2. Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion. 
+    
+    3. Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
+    
+    4. Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment. 
+    
+    5. Sustained disruption of discussion
+
+
+    Non-Teachable Offenses
+---
     1.  Deliberate misgendering or use of 'dead' or rejected names.
 
     2. Gratuitous or off-topic sexual images or behaviour in spaces where they're not appropriate.
@@ -49,7 +53,7 @@ Our organization believes there is a difference between a teachable and non-teac
 
 
 ## Application of CoC guidelines
-* The guiding principles* are to be upheld in all spaces internally, and externally.
+* The guiding principles are to be upheld in all spaces internally, and externally.
 
 
 ## Filing an incident
