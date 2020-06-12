@@ -1,4 +1,4 @@
-#Code Of Conduct Input
+# Code Of Conduct Input
 
 ## What is inappropriate behavior?
 
