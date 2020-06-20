@@ -30,7 +30,7 @@ These incidents are teachable moments made without the intent to harm, but are n
 * Comments based on gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion that offend an individual or group. This includes deprecated words that harm members of our community and go against our goal of creating an inclusive space. For a good list of words please reference [Self-Defined](https://www.selfdefined.app/) by [Tatiana Mac](https://twitter.com/tatianatmac)
 
 * Unwanted comments based on someone's lifestyle choices and practices, including those related to food, health, parenting, drugs, or employment.
-
+* Playing 'Devil's Advocate', justifying, or otherwise equivocating when being confronted about harmful behavior. A willingness to change and a mind for learning more is the only acceptable response.
 * Disruptive behavior during discussions or other forms of communication.
 
 ### Non-teachable Offenses
