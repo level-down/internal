@@ -30,8 +30,10 @@ These incidents are teachable moments made without the intent to harm, but are n
 * Comments based on gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion that offend an individual or group. This includes deprecated words that harm members of our community and go against our goal of creating an inclusive space. For a good list of words please reference [Self-Defined](https://www.selfdefined.app/) by [Tatiana Mac](https://twitter.com/tatianatmac)
 
 * Unwanted comments based on someone's lifestyle choices and practices, including those related to food, health, parenting, drugs, or employment.
+
 * Playing 'Devil's Advocate', justifying, or otherwise equivocating when being confronted about harmful behavior. A willingness to change and a mind for learning more is the only acceptable response.
-* Disruptive behavior during discussions or other forms of communication.
+
+* Disruptive behavior during discussions or other forms of communication. If you feel the need to call out someone's behavior, consider the repercussions of addressing that behavior in front of the group. When possible, discuss the incident privately or invite a neutral third party to facilitate your discussion. 
 
 ### Non-teachable Offenses
 
@@ -61,7 +63,7 @@ These are deliberate infringements on peoples’ rights, freedoms, and safety.
 
 Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-They have the right and responsibility to remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+They have the right and responsibility to remove individuals and remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.  
 
 They will follow the Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
 
@@ -137,4 +139,4 @@ We also believe in the importance of highlighting positive contributions in the 
 
 ## Acknowledgements
 
-[Write Speak Code](https://www.writespeakcode.com/code-of-conduct/), [Open Source Guide](https://opensource.guide/code-of-conduct/), and [Contributor Covenant](https://www.contributor-covenant.org/) provided the inspiration for this code of conduct.
+[Write Speak Code](https://www.writespeakcode.com/code-of-conduct/), [Open Source Guide](https://opensource.guide/code-of-conduct/), and [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) provided the inspiration for this code of conduct.
