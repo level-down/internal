@@ -19,7 +19,7 @@ All org members should familiarize themselves with this document to better under
 As a community of diverse individuals, the org prioritizes marginalized people's safety over privileged people's comfort. We are committed to providing a harassment-free environment regardless of gender and gender identity, age, sexual orientation, disability, physical appearance, body size, race, or religion or lack thereof.
 
 ## Scope
-The code of conduct applies to all members of the org in all spaces and situations where the org is present including—but not limited to—pull requests, Discord, Zoom, Slack, and other physical and online communication channels.
+The code of conduct applies to all members of the org in all spaces and situations where multiple members of the the org are present including—but not limited to—pull requests, Discord, Zoom, Slack, and other physical and online communication channels.
 
 ## Violations
 The org makes the distinction between incidents that are teachable and non-teachable.
